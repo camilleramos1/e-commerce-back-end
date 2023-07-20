@@ -21,10 +21,10 @@ Once the user has started the server using their terminal, they will be able to 
 From there, you can decide what type of route you would like to view using each of the routes individual files as reference. Each api route has 5 additional routes, those being GET(ALL), GET(ONE), POST, PUT, and DELETE.
 
 ## Video Preview of Application
-![ecommerce](assets/video-walkthrough.gif)
+![ecommerce](assets/walkthrough-video.gif)
 
 
-View the entire video here: https://drive.google.com/file/d/1RDOH-Jg2_oCmdsKE0ym2Snxs03eFJ-G3/view
+View the entire video here: https://drive.google.com/file/d/1XvO4b8iJRO8SCDfPpmL7UsHxXLKF41sr/view
 
 ## License
 This project is covered under the MIT license. To learn more, please click the license badge at the top of the page.
